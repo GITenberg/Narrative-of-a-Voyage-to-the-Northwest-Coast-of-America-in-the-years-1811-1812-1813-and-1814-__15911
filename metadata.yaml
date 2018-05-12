@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '6373'
     url: http://www.gutenberg.org/2009/agents/6373
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15911#Narrative-of-a-Voyage-to-the-Northwest-Coast-of-America-in-the-years-1811-1812-1813-and-1814-_
 gutenberg_issued: '2005-05-27'
 gutenberg_type: Text
 identifiers:
