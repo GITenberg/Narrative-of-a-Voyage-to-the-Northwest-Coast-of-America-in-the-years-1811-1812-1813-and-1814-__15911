@@ -1,0 +1,42 @@
+_repo: Narrative-of-a-Voyage-to-the-Northwest-Coast-of-America-in-the-years-1811-1812-1813-and-1814-__15911
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Huntington, J. V. (Jedediah Vincent)
+    aliases:
+    - Vincent, John
+    - Huntington, Jedediah Vincent
+    birthdate: 1815
+    deathdate: 1862
+    gutenberg_agent_id: '38977'
+    url: http://www.gutenberg.org/2009/agents/38977
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Franchère, Gabriel
+    alias: Franchere, Gabriel
+    birthdate: 1786
+    deathdate: 1863
+    gutenberg_agent_id: '6373'
+    url: http://www.gutenberg.org/2009/agents/6373
+description: ''
+gutenberg_issued: '2005-05-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15911'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Oregon Territory -- History'
+- !lcsh 'Fur trade -- Oregon'
+- !lcc 'F850.5'
+- !lcsh 'Astoria (Or.)'
+- !lcsh 'Voyages to the Pacific coast'
+- !lcsh 'Northwest, Canadian -- Description and travel'
+title: Narrative of a Voyage to the Northwest Coast of America in the years 1811,
+  1812, 1813, and 1814 or the First American Settlement on the Pacific
+url: http://www.gutenberg.org/ebooks/15911
